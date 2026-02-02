@@ -68,3 +68,29 @@
 - YouTube API
 - Groq Chatbot API
 - Google Vision API
+
+
+# Local system setup
+
+1. Clone the repository
+```
+git clone https://github.com/dwivediprashant/Farmer_care.git
+
+```
+2. Navigate to backend directory and install dependencies
+```
+cd backend  
+npm install
+npm run dev
+
+```
+3. Navigate to frontend directory and install dependencies
+```
+cd frontend 
+npm install
+npm run dev
+
+```
+
+4. Go to http://localhost:5173 to view the application
+
